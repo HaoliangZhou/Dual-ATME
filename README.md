@@ -2,7 +2,7 @@
 
 
 > **Dual-ATME: Dual-branch Attention Network for Micro-Expression Recognition**<br>
-> Haoliang Zhou, Shucheng Huang, Jingting Li and SuJing Wang}<br>
+> Haoliang Zhou, Shucheng Huang, Jingting Li and SuJing Wang<br>
 
 > **Abstract**: <br>
 > Micro-expression recognition (MER) is challenging due to the difficulty of capturing the instantaneous and subtle motion changes of micro-expressions (MEs). Early works based on hand-crafted features extracted from prior knowledge showed some promising results, but have recently been replaced by deep learning methods based on attention mechanism. However, with limited ME sample size, features extracted by these methods lack discriminative ME representations, in yet-to-be improved MER performance. 

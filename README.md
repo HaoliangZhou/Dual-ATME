@@ -12,6 +12,7 @@
 
 > **Citation**: <br>
 > If you find this repo useful for your research, please consider citing the paper
+> ```
 @Article{zhou2023dualatme,
 AUTHOR = {Zhou, Haoliang and Huang, Shucheng and Li, Jingting and Wang, Su-Jing},
 TITLE = {Dual-ATME: Dual-Branch Attention Network for Micro-Expression Recognition},
@@ -22,3 +23,4 @@ URL = {https://www.mdpi.com/1099-4300/25/3/460},
 ISSN = {1099-4300},
 DOI = {10.3390/e25030460}
 }
+```

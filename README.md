@@ -9,6 +9,11 @@ Micro-expression recognition (MER) is challenging due to the difficulty of captu
 This paper proposes the Dual-branch Attention Network (Dual-ATME) for MER to address the problem of ineffective single-scale features representing MEs. Specifically, Dual-ATME consists of two components: Hand-crafted Attention Region Selection (HARS) and Automated Attention Region Selection (AARS). HARS uses prior knowledge to manually extract features from regions of interest (ROIs). Meanwhile, AARS is based on attention mechanisms and extracts hidden information from data automatically. Finally, through similarity comparison and feature fusion, the dual-scale features could be used to learn ME representations effectively. 
 Experiments on spontaneous ME >datasets (including CASME II, SAMM, SMIC) and their composite dataset MEGC2019-CD show that Dual-ATME achieves better or more competitive performance than the state-of->the-art MER methods.
 
+<p align="center">
+<img src="https://github.com/HaoliangZhou/Dual-ATME/blob/master/fig.png" width=100% height=100% 
+class="center">
+</p>
+
 **Citation**: <br>
 If you find this repo useful for your research, please consider citing the paper
 ```

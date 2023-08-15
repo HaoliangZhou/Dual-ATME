@@ -32,7 +32,7 @@ data/
 ```
 /home/user/data/samm/flow/006_006_1_2_006_05588-006_05562_flow.png 0 1
 ```
-In the example, the first column is the path of the optical flow image for a particular ME sample, the second column is the label (0-2 for three emotions), and the third column is the database type (1-3 for three databases).
+In this example, the first column is the path of the optical flow image for a particular ME sample, the second column is the label (0-2 for three emotions), and the third column is the database type (1-3 for three databases).
 
 2. There are 68 raws in _subName.txt_: 
 ```

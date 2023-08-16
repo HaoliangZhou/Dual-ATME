@@ -15,7 +15,7 @@ class="center">
 </p>
 
 ### Data preparation
-The data lists are reorganized as follow:
+Following [RCN](https://github.com/xiazhaoqiang/ParameterFreeRCNs-MicroExpressionRec/blob/main/PrepareData_LOSO_CD.py), the data lists are reorganized as follow:
 
 ```
 data/

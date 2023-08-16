@@ -46,7 +46,7 @@ sub01
 ...
 sub26
 ```
-Represents ME samples divided by MEGC2019, as described in [here](https://facial-micro-expressiongc.github.io/MEGC2019/).
+Represents ME samples divided by MEGC2019, as described in [here](https://facial-micro-expressiongc.github.io/MEGC2019/) ahd [here](https://facial-micro-expressiongc.github.io/MEGC2019/images/MEGC2019%20Recognition%20Challenge.pdf).
 
 
 ### Citation: <br>

@@ -2,7 +2,7 @@
 
 
 ### Dual-ATME: Dual-branch Attention Network for Micro-Expression Recognition ([Paper](https://doi.org/10.3390/e25030460))<br>
-Haoliang Zhou, Shucheng Huang, Jingting Li and SuJing Wang<br> 
+*Haoliang Zhou, Shucheng Huang, Jingting Li and SuJing Wang*<br> 
 
 ##
 
@@ -60,7 +60,6 @@ TITLE = {Dual-ATME: Dual-Branch Attention Network for Micro-Expression Recogniti
 JOURNAL = {Entropy},
 VOLUME = {25},
 YEAR = {2023},
-URL = {https://www.mdpi.com/1099-4300/25/3/460},
 ISSN = {1099-4300},
 DOI = {10.3390/e25030460}
 }

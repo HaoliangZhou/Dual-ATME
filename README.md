@@ -2,7 +2,7 @@
 
 
 ### Dual-ATME: Dual-branch Attention Network for Micro-Expression Recognition ([Paper](https://doi.org/10.3390/e25030460))<br>
-*Haoliang Zhou, Shucheng Huang, Jingting Li and SuJing Wang*<br> 
+*Haoliang Zhou, Shucheng Huang, Jingting Li, SuJing Wang*<br> 
 
 ##
 

@@ -1,0 +1,11 @@
+/home/zhouhl/Documents/data/samm/flow/006_006_1_2_006_05588-006_05562_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_1_3_006_03948-006_03912_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_1_4_006_02368-006_02324_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_1_5_006_05388-006_05343_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_1_6_006_07197-006_07160_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_2_4_006_0217-006_0180_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_3_4_006_0668-006_0639_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_3_5_006_1829-006_1787_flow.png 2 1
+/home/zhouhl/Documents/data/samm/flow/006_006_5_9_006_5282-006_5258_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_5_10_006_1465-006_1436_flow.png 0 1
+/home/zhouhl/Documents/data/samm/flow/006_006_5_11_006_2190-006_2130_flow.png 2 1

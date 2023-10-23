@@ -1,0 +1,6 @@
+/home/zhouhl/Documents/data/smic/flow/s01_s01_ne_01_image559753-image559740_flow.png 0 2
+/home/zhouhl/Documents/data/smic/flow/s01_s01_ne_02_image563862-image563854_flow.png 0 2
+/home/zhouhl/Documents/data/smic/flow/s01_s01_ne_03_image658551-image658536_flow.png 0 2
+/home/zhouhl/Documents/data/smic/flow/s01_s01_po_01_image701862-image701843_flow.png 1 2
+/home/zhouhl/Documents/data/smic/flow/s01_s01_po_02_image702638-image702609_flow.png 1 2
+/home/zhouhl/Documents/data/smic/flow/s01_s01_sur_01_image550017-image549990_flow.png 2 2

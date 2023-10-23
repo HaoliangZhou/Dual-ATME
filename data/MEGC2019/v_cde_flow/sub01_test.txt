@@ -1,0 +1,3 @@
+/home/zhouhl/Documents/data/casme2/flow/sub01_EP02_01f_img59-img46_flow.png 1 0
+/home/zhouhl/Documents/data/casme2/flow/sub01_EP19_05f_img416-img396_flow.png 0 0
+/home/zhouhl/Documents/data/casme2/flow/sub01_EP19_06f_img71-img36_flow.png 0 0
